@@ -1,5 +1,6 @@
 ### Continuation Of Building
-    This is a rust file that automatically compiles when the .rs file in the listening working directory changes, intended for personal use
+This is a rust file that automatically compiles when the .rs file in the listening working directory changes, intended for personal use
+
 ### Quick Start
 
 ```rust
